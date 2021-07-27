@@ -1,0 +1,179 @@
+.u-section-1 {
+  background-image: url("images/ceylinco-sussex-college-horana-768x511.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1091px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 745px;
+  min-height: 1031px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 30px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 25px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 27px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 898px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-6 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-7 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-7 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-8 {
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.u-section-1 .u-input-8 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,18 @@
+CREATE TABLE `payment_slip` (
+  `bankreference` varchar(255) NOT NULL,
+  `prg` varchar(255) NOT NULL,
+  `fullname` varchar(255) NOT NULL,
+  `initials` varchar(255) DEFAULT NULL,
+  `branch` varchar(255) DEFAULT NULL,
+  `paymentfor` varchar(255) DEFAULT NULL,
+  `additionalnote` varchar(255) DEFAULT NULL,
+  `imagefilepath` longblob,
+  `submissiondate` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`bankreference`)
+)
+
+CREATE TABLE `users` (
+  `prg` varchar(225) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  PRIMARY KEY (`prg`)
+)
